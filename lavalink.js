@@ -2,10 +2,11 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "5.39.63.207",
-      port:  8262,
+      name: "BloxCraft Creations",
+      password: "foxlaneacademy",
+      host: "194.58.66.44",
+      port:  6886,
       secure: false
     }
 };
+
